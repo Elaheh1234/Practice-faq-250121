@@ -1,0 +1,12 @@
+{
+  "recommendations": [
+    "ritwickdey.liveserver",
+    "donjayamanne.githistory",
+    "ecmel.vscode-html-css",
+    "esbenp.prettier-vscode",
+    "sibiraj-s.vscode-scss-formatter",
+    "redhat.vscode-yaml",
+    "redhat.vscode-xml",
+    "yandeu.five-server"
+  ]
+}
