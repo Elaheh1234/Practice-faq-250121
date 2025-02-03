@@ -1,0 +1,1 @@
+(()=>{"use strict";document.addEventListener("DOMContentLoaded",(()=>{document.querySelectorAll(".faq-question").forEach((e=>{e.addEventListener("click",(()=>{e.nextElementSibling.classList.toggle("show")}))}))}))})();
