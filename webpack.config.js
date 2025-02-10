@@ -38,7 +38,7 @@ module.exports = {
       new HtmlWebpackPlugin({
         template: './faq.html',
         chunks: ['main'],
-        filename: 'faq.html',
+        filename: 'index.html',
       }),
      
     ],
